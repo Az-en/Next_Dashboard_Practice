@@ -1,5 +1,4 @@
 import AcmeLogo from '@/app/ui/acme-logo';
-import "@/app/ui/global.css"
 import Image from "next/image";
 import {lusitana_normal} from "@/app/ui/font"
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
